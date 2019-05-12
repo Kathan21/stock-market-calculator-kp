@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.smc12{
+  margin: auto;
+  text-align: center !important;
+  width: 100%;
+  height: 75px;
+  font-size: 25px; 
+}
+
+.smc{
+  margin: 0px !important;
+  color: royalblue;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.stockmTable{
+  border: 1px solid;
+  height:785px;
+  width: 795px;
+  position: relative;
+  left: 0px;
+
+}
+.stockmTable1{
+  border: 1px solid;
+  height:785px;
+  width: 795px;
+  left: 795px;
+}
+
+.btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #f44336;
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  box-sizing: border-box;
+}
+
+.labelcolor{
+  color: rgb(48, 0, 161);
+}
